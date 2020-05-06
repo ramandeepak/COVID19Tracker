@@ -1,5 +1,5 @@
 # COVID19Tracker
-COVID-19 Tracker - A simple web app that provides the pandemic distribution statistics
+COVID-19 Tracker - A simple web app that provides the pandemic distribution statistics. This app is basically feeding off of the free API provided by https://covid19api.com/
 
 To setup the project on your local machine follow the steps below:
 
