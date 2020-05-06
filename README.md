@@ -1,5 +1,5 @@
 # COVID19Tracker
-COVID-19 Tracker - A simple web app that provides the pandemic distribution statistics. This app is basically feeding off of the free API provided by https://covid19api.com/
+COVID-19 Tracker - A simple web app that provides the pandemic distribution statistics. This app is basically feeding off of the free API provided by https://covid19api.com/ and it makes use of Chart.js to render a line graph that shows how the shape of the curve has changed over a period of time.
 
 To setup the project on your local machine follow the steps below:
 
