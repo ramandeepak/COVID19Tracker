@@ -14,3 +14,6 @@ To setup the project on your local machine follow the steps below:
   
 4.  Finally, open the index.html file using the live preview server that comes with Visual Studio Code. If you are using a different IDE, refer to its documentation in order to find out how to run a html file on the local server.
     
+
+
+![COVID19Tracker Demo](Demo.gif)
